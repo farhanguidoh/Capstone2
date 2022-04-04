@@ -3,7 +3,7 @@ Analisis Data Sakila Store & Staf
 
 Analisis mengenai database Sakila dengan fokus analisa kepada data store dan staff
 
-## Konteks Soal:
+## Context:
 Sebuah toko yang bergerak di rental film ingin mengetahui secara umum gambaran bisnis yang telah berjalan dengan fokus utamanya yaitu store & staff toko tersebut. Pemilik toko ingin mendapatkan insight bagaimana meningkatkan kepuasan pelanggan dan menaikkan keuntungan toko dengan cara menyediakan jenis film yang tepat pada consumer yang tepat.
 
 ## Isi Notebook:
